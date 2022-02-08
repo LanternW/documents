@@ -98,7 +98,7 @@ git remote add origin git@github.com:LanternW/[cname].git
 
 ### 8. 链接
 
-
+Git 大全： https://gitee.com/all-about-git
 
 
 
