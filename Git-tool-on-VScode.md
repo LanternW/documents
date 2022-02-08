@@ -90,11 +90,17 @@ email 保持与 giuthub账号一致，其余选项默认，通常无需设置密
 ```
 git remote add [r_name] git@github.com:[Github Username]/ccc.git
 ```
-其中 [r_name] 为远程仓库在本地的命名，习惯上命名为 origin
+其中 [r_name] 为远程仓库在本地的命名，习惯上命名为 origin , 
 [Github Username]是github用户名。
 ```
 git remote add origin git@github.com:LanternW/[cname].git
 ```
+
+### 8. 链接
+
+
+
+
 
 
 
